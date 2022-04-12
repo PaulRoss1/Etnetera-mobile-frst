@@ -469,7 +469,7 @@ footer {
     bottom: 130px;
     right: 20px;
     width: 320px;
-    height: 445px;
+    height: 400px;
     display: none;
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -497,7 +497,7 @@ footer {
     h3 {
       color: black;
       padding-top: 5%;
-      font-size: 19px;
+      font-size: 18px;
       text-align: left;
       margin-bottom: 20px;
       @media (min-width: 576px) {
@@ -529,7 +529,7 @@ footer {
       }
     }
     p {
-      font-size: 13px;
+      font-size: 12px;
       color: gray;
       text-align: left;
       @media (min-width: 576px) {
@@ -537,7 +537,7 @@ footer {
       }
     }
     .info {
-      padding-top: 100px;
+      padding-top: 90px;
       @media (min-width: 576px) {
         padding-top: 120px;
       }

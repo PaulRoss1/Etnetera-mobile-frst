@@ -583,7 +583,7 @@ footer #mail-form {
   bottom: 130px;
   right: 20px;
   width: 320px;
-  height: 445px;
+  height: 400px;
   display: none;
   background-color: white;
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -621,7 +621,7 @@ footer .content {
 footer .content h3 {
   color: black;
   padding-top: 5%;
-  font-size: 19px;
+  font-size: 18px;
   text-align: left;
   margin-bottom: 20px;
 }
@@ -665,7 +665,7 @@ footer .content button {
 }
 
 footer .content p {
-  font-size: 13px;
+  font-size: 12px;
   color: gray;
   text-align: left;
 }
@@ -677,7 +677,7 @@ footer .content p {
 }
 
 footer .content .info {
-  padding-top: 100px;
+  padding-top: 90px;
 }
 
 @media (min-width: 576px) {
